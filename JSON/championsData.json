@@ -1,0 +1,1030 @@
+{  
+  "company": "Riot Games, Inc",
+  "champions": [
+  {
+    "name":"Aatrox",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Ahri",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Akali",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Alistar",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Amumu",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Annie",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Ashe",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Azir",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Bard",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Blitzcrank",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Brand",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Braum",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Caitlyn",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Cassiopeia",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"ChoGath",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Corki",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Darius",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+    
+  },
+  {
+    "name":"Diana",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Draven",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Dr Mundo",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Ekko",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Elise",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Evelynn",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Ezreal",
+    "toplane": "The-Legend-Of-Zelda-(Original-Mix).mp3",
+    "midlane": "The-Legend-Of-Zelda-(Original-Mix).mp3",
+    "jungle": "The-Legend-Of-Zelda-(Original-Mix).mp3",
+    "botlane": "The-Legend-Of-Zelda-(Original-Mix).mp3",
+    "support": "The-Legend-Of-Zelda-(Original-Mix).mp3"
+  },
+  {
+    "name":"Fiddlesticks",
+    "toplane": "Edward-Scissorhands-(Main-Theme-from-the-Motion-Picture)[feat.Dominik-Hauser].m4a",
+    "midlane": "Edward-Scissorhands-(Main-Theme-from-the-Motion-Picture)[feat.Dominik-Hauser].m4a",
+    "jungle": "Edward-Scissorhands-(Main-Theme-from-the-Motion-Picture)[feat.Dominik-Hauser].m4a",
+    "botlane": "Edward-Scissorhands-(Main-Theme-from-the-Motion-Picture)[feat.Dominik-Hauser].m4a",
+    "support": "Edward-Scissorhands-(Main-Theme-from-the-Motion-Picture)[feat.Dominik-Hauser].m4a"
+  },
+  {
+    "name":"Fiora",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Fizz",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Galio",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Gangplank",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Garen",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Gnar",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Gragas",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Graves",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Hecarim",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Heimerdinger",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Illaoi",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Irelia",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Janna",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Jarvan IV",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Jax",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Jayce",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Jhin",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Jinx",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Kalista",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Karma",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Karthus",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Kassadin",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Katarina",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Kayle",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Kennen",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Kha'Zix",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Kindred",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Kog'Maw",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"LeBlanc",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Lee Sin",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Leona",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Lissandra",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Lucian",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Lulu",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Lux",
+    "toplane": "Colours-of-the-Rainbow-(Radio-Mix).m4a",
+    "midlane": "Colours-of-the-Rainbow-(Radio-Mix).m4a",
+    "jungle": "Colours-of-the-Rainbow-(Radio-Mix).m4a",
+    "botlane": "Colours-of-the-Rainbow-(Radio-Mix).m4a",
+    "support": "Colours-of-the-Rainbow-(Radio-Mix).m4a"
+  },
+  {
+    "name":"Malphite",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Malzahar",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Maokai",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Master Yi",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Miss Fortune",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Mordekaiser",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Morgana",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Nami",
+    "toplane": "Lonely-Girl-(Gareth-Emery-Remix).mp3",
+    "midlane": "Beautiful-Together-(Signum-Remix).mp3",
+    "jungle": "On-the-Beach-(Andy-Duguid-Remix).mp3",
+    "botlane": "Sirens-of-the-Sea-(Above-And-Beyond-Club-Mix).m4a",
+    "support": "On-a-Good-Day-(Daniel-Kandi-Mix)-[Bonus-Track].mp3"
+  },
+  {
+    "name":"Nasus",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Nautilus",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Nidalee",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Nocturne",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Nunu",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Olaf",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Orianna",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Pantheon",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Poppy",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Quinn",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Rammus",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Rek'Sai",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Renekton",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Rengar",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Riven",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Rumble",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Ryze",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Sejuani",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Shaco",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Shen",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Shyvana",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Singed",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Sion",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Sivir",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Skarner",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Sona",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Soraka",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Swain",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Syndra",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Tahm Kench",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Talon",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Taric",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Teemo",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Thresh",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Tristana",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Trundle",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Tryndamere",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Twisted Fate",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Twitch",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Udyr",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Urgot",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Varus",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Vayne",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Veigar",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Vel'Koz",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Viktor",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Vi",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Vladimir",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Volibear",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Warwick",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Wukong",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Xerath",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Xin Zhao",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Yasuo",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Yorick",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Zac",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Zed",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Ziggs",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Zilean",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  },
+  {
+    "name":"Zyra",
+    "toplane": "none",
+    "midlane": "none",
+    "jungle": "none",
+    "botlane": "none",
+    "support": "none"
+  }
+]
+}

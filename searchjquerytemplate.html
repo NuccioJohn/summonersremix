@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Summoners Remix Champion Search</title>
+        <link rel="stylesheet" href="css/searchstyle.css">
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/jquery.loadTemplate.js"></script>
+        <script type="text/javascript">
+         var curPage = 1;
+         var templateData = null;
+
+         function getData() {
+            $.getJSON("JSON/championsData.json", function(data) {
+                templateData = data;
+                renderTemplates(templateData, curPage);
+            });
+         }         
+
+         function renderTemplates(data, pageNo) {
+              $("#container").loadTemplate($("#itemTemplate"), data["champions"], 
+                    {paged: true, pageNo: pageNo, elemPerPage: 5});
+         }
+         
+         window.addEventListener("load", function(e) {
+
+             document.querySelector("#prevPage").addEventListener("click", function (evt) {
+                 if (curPage > 1) {
+                    renderTemplates(templateData, --curPage);
+                 }
+             });
+             document.querySelector("#nextPage").addEventListener("click", function (evt) {
+                 if (curPage < 26) {
+                    renderTemplates(templateData, ++curPage);
+                 }
+             });
+
+             getData();
+         });
+        </script>
+    </head>
+    <body>
+        <script type="text/html" id="itemTemplate">
+            <div class="itemTemplateWrapper">
+                <h2 data-content="name"></h2>
+                <table><thead><tr><th>Lane</th><th>Song</th></tr></thead>
+                <tr><td>Top</td><td data-content="toplane"></td></tr>
+                <tr><td>Mid</td><td data-content="midlane"></td></tr>
+                <tr><td>Jungle</td><td data-content="jungle"></td></tr>
+                <tr><td>Bot</td><td data-content="botlane"></td></tr>
+                <tr><td>Support</td><td data-content="support"></td></tr>
+                </table>  
+            </div>
+        </script>
+        
+          <div id="searcharea">
+            <label for="search">Champion Music Search</label>
+            <p>Enter the Champion Name to look up specific songs</p>
+            <input type="search" name="search" id="search" placeholder="Enter Champion Name or Position" />
+            <audio id="audio">
+                <!--<source src="music/music.ogg" type="audio/ogg" />-->
+                <source src="music/music.mp3" type="audio/mp3" />
+            </audio>
+          </div>
+
+        <!-- This is the container where the templates will be instantiated -->
+        <button id="prevPage">Previous</button>
+        <button id="nextPage">Next</button>
+
+        <div id="container"></div>
+
+
+    </body>
+</html>

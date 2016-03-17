@@ -1,0 +1,138 @@
+body {
+  line-height: 1.5;
+  color: white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: black;
+  /*
+  background: url('../video/summonersmix.mp4');
+ */
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+hr {
+  
+  border: 0;
+  box-shadow: 0px 1px 1px rgba(255,255,255,0.3);
+    height: 2px;
+    width: 90%;
+    background: -moz-radial-gradient(center, ellipse cover,  rgba(0,0,0,1) 0%, rgba(0,0,0,0.06) 67%, rgba(0,0,0,0) 71%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(0,0,0,1)), color-stop(67%,rgba(0,0,0,0.06)), color-stop(71%,rgba(0,0,0,0)));
+  background: -webkit-radial-gradient(center, ellipse cover,  rgba(0,0,0,1) 0%,rgba(0,0,0,0.06) 67%,rgba(0,0,0,0) 71%);
+  background: -o-radial-gradient(center, ellipse cover,  rgba(0,0,0,1) 0%,rgba(0,0,0,0.06) 67%,rgba(0,0,0,0) 71%);
+  background: -ms-radial-gradient(center, ellipse cover,  rgba(0,0,0,1) 0%,rgba(0,0,0,0.06) 67%,rgba(0,0,0,0) 71%);
+  background: radial-gradient(ellipse at center,  rgba(0,0,0,1) 0%,rgba(0,0,0,0.06) 67%,rgba(0,0,0,0) 71%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00000000',GradientType=1 );
+}
+
+
+h1 {
+  font-weight: normal;
+  font-family: georgia;
+  font-size: 16px;
+  color: white;
+  text-shadow: 1px 1px 4px #000000;
+}
+
+h3 {
+  color: #008ef1;
+}
+
+h3:hover {
+  text-decoration: underline;
+}
+
+h4 {
+  font-weight: normal;
+  font-family: georgia;
+  font-size: 12px;
+  color: white;
+}
+
+a{
+	color: #BFE35B;
+	text-decoration: none;
+}
+
+button {
+  color:#ffffff;
+  font-family: georgia;
+  cursor: pointer;
+  font-size: 13px;
+  margin-top: 18px;
+  margin-bottom: 23px;
+  margin-left: 23px;
+  height: 27px;
+  width: 96px;
+  float: right;
+  background: rgb(252,227,0);
+  background: -moz-linear-gradient(top,  rgba(252,227,0,1) 0%, rgba(173,59,5,1) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,227,0,1)), color-stop(100%,rgba(173,59,5,1)));
+  background: -webkit-linear-gradient(top,  rgba(252,227,0,1) 0%,rgba(173,59,5,1) 100%);
+  background: -o-linear-gradient(top,  rgba(252,227,0,1) 0%,rgba(173,59,5,1) 100%);
+  background: -ms-linear-gradient(top,  rgba(252,227,0,1) 0%,rgba(173,59,5,1) 100%);
+  background: linear-gradient(to bottom,  rgba(252,227,0,1) 0%,rgba(173,59,5,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fce300', endColorstr='#ad3b05',GradientType=0 );
+  border-radius: 4px;
+  border-width: 0px;
+  box-shadow: inset 0px 1px 0px rgba(255,255,255,0.3),
+    inset 0px 0px 10px rgba(255,255,255,0.5),
+    5px 5px 15px rgba(0,0,0,0.5);
+}
+/*
+video#kinetic{
+	min-width:100%;
+	min-height:100%;
+	width:auto;
+	height:auto;
+	background: url('../images/summonersmix.gif');
+	background-size: cover;
+}*/
+
+.logo {
+    width: 372px;
+    height: 198px;
+    margin-left: 70px;
+    background: url('../images/logo.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-bottom: 10px;
+  }
+.riotlogo {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background-image: url('../images/riot-logo.png');
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+
+.container {
+  background: -moz-linear-gradient(top,  rgba(12,25,43,0.92) 0%, rgba(0,2,7,0.91) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(12,25,43,0.92)), color-stop(100%,rgba(0,2,7,0.91)));
+  background: -webkit-linear-gradient(top,  rgba(12,25,43,0.92) 0%,rgba(0,2,7,0.91) 100%);
+  background: -o-linear-gradient(top,  rgba(12,25,43,0.92) 0%,rgba(0,2,7,0.91) 100%);
+  background: -ms-linear-gradient(top,  rgba(12,25,43,0.92) 0%,rgba(0,2,7,0.91) 100%);
+  background: linear-gradient(to bottom,  rgba(12,25,43,0.92) 0%,rgba(0,2,7,0.91) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eb0c192b', endColorstr='#e8000207',GradientType=0 );
+  border-radius: 2px;
+  border-style: solid;
+  border-width: 1px;
+  width: 378px;
+  height: 350px;
+  margin-left: 70px;
+  border-color: rgba(255,255,255,0.4);
+  -webkit-box-shadow:  4px 4px 10px  rgba(0, 0, 0, 0.5);
+      box-shadow:  4px 4px 10px  rgba(0, 0, 0, 0.5);
+}
+
+.container_top {
+  width: 325px;
+  margin: 20px auto;
+  
+}
+

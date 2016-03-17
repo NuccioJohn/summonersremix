@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Summoners Remix Champion Search</title>
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/mustache.js"></script>
+        <link rel="stylesheet" href="css/searchstyle.css">
+        <script type="text/javascript">
+         function changeAudio(test) {
+            var src = test;
+                if(src.search("none") > -1){
+                     src = 'music/music.mp3';
+                }
+ 
+            var audioElement = document.getElementById('audio');
+            audioElement.setAttribute('src', src);
+            // Load src of the audio file
+            audioElement.load();
+            audioElement.play();
+            };
+
+         $("document").ready(function() {
+
+                 $.getJSON( "JSON/championsData.json", function( prodData ) {
+                    var template = $('#itemTemplate').html();
+
+                    var result = Mustache.render(template, prodData );
+                    $("#container").html(result);
+
+                    //Format Image Name
+                    prodData.formatName = function () {
+                        return function(text, render) {
+                            text = render(text);
+                            text = text.replace(/ /g, "");
+                          return text;
+                        }; 
+                    };
+
+                    //Pause Button
+                    prodData.pause = function () {
+                     return function(text, render) {
+                          return '<button onClick="document.getElementById('+"'audio'"+ ').pause()">' + render(text) + "</button>";
+                        }; 
+                    };
+
+                    var result = Mustache.render(template, prodData );
+                    $("#container").html(result);
+
+                 });//getJSON
+         });
+        </script>
+
+    </head>
+    <body>
+        <script type="text/template" id="itemTemplate">
+            <div class="itemTemplateWrapper">
+                {{#champions}}
+                <h2>{{name}}</h2>
+                <img src=images/champion-images/{{#formatName}}{{name}}{{/formatName}}Square.png alt= {{#formatName}}{{name}}{{/formatName}}/>
+                <table><thead><tr><th>Lane</th><th>Song</th></tr></thead>
+                <tr><td>Top</td><td>{{toplane}} <button onClick="changeAudio('music/{{#formatName}}{{name}}{{/formatName}}/{{toplane}}');">Play</button>{{#pause}}Pause{{/pause}}</td></tr>
+                <tr><td>Mid</td><td>{{midlane}} <button onClick="changeAudio('music/{{#formatName}}{{name}}{{/formatName}}/{{midlane}}');">Play</button>{{#pause}}Pause{{/pause}}</td></tr>
+                <tr><td>Jungle</td><td>{{jungle}} <button onClick="changeAudio('music/{{#formatName}}{{name}}{{/formatName}}/{{jungle}}');">Play</button> {{#pause}}Pause{{/pause}}</td></tr>
+                <tr><td>Bot</td><td>{{botlane}} <button onClick="changeAudio('music/{{#formatName}}{{name}}{{/formatName}}/{{botlane}}');">Play</button> {{#pause}}Pause{{/pause}}</td></tr>
+                <tr><td>Support</td><td>{{support}}  <button onClick="changeAudio('music/{{#formatName}}{{name}}{{/formatName}}/{{support}}');">Play</button> {{#pause}}Pause{{/pause}}</td></tr>
+                </table>
+                {{/champions}}
+            </div>
+        </script>
+
+        
+          
+            <!--
+            <div id="searcharea">
+            <label for="search">Champion Music Search</label>
+            <p>Enter the Champion Name to look up specific songs</p>
+            <input type="search" name="search" id="search" placeholder="Enter Champion Name or Position" />
+            </div>
+            -->
+            <audio id="audio">
+                <!--<source src="music/music.ogg" type="audio/ogg" />-->
+                <source src="music/music.mp3" type="audio/mp3" />
+            </audio>
+          
+
+        <!-- This is the container where the templates will be instantiated -->
+        <div id="container"></div>
+    </body>
+</html>
